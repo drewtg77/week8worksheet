@@ -1,3 +1,8 @@
+# Name: Drew Girton, StudentID = 201951996
+
+
+
+
 """
 Exercise 3.2: Simulate a Turn-Based Battle (Class-Based)
 
